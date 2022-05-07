@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Full-Stack Portfolio on Dan Wellings</title>
+    <link>/</link>
+    <description>Recent content in Full-Stack Portfolio on Dan Wellings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Creative, organized, and self-motivated undergraduate student at Clarkson University. I am highly skilled with creative technical applications such as Premiere Pro, Adobe XD, and Sketch. I am proficient in HTML, CSS, and Javascript. I’m a strong writer and public speaker with vital intrapersonal communication skills. I am a highly passionate filmmaker and video producer with a refined understanding of what makes good content. My greatest asset is my use of aesthetics and how I apply that to the content I create whether that be UX design, video production, web design, audio production etc.</description>
+    </item>
+    
+  </channel>
+</rss>
